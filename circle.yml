@@ -4,4 +4,4 @@ machine:
 
 test:
   override:
-    - phpunit my/special/subdirectory/tests
+    - phpunit
